@@ -54,9 +54,8 @@ Interactive Excel dashboard to calculate **median salaries by country and schedu
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/mengistu-tarko-assefa-b22507362/))  
-- Portfolio: [Your Portfolio](https://mengety.github.io/myweb_portifolio/)  
-- Email: [your.email@example.com](mailto:mengistutarkoa.com)
+- LinkedIn: [Mengistu Tarko Assefa](https://www.linkedin.com/in/mengistu-tarko-assefa-b22507362/)
+- Email:[mengistutarkoa@gmail.com](mailto:mengistutarkoa@gmail.com)
 
 ---
 
