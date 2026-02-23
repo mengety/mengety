@@ -12,7 +12,9 @@ I also program in **Python** and its libraries: **NumPy, Pandas, Matplotlib, Sea
 
 - Deep diving into **Machine Learning algorithms**:  
   - Linear Regression  
-  - Logistic Regression  
+  - Logistic Regression
+  - Supervised and unsupervised leanring
+- Deep Diving into **Deep Leanring  and Neural Networks**
 - Aiming to specialize in **Computer Vision** and **Natural Language Processing (NLP)**.  
 - Interested in contributing to:  
   - **Finance** and **Healthcare sectors**  
@@ -31,9 +33,8 @@ I also program in **Python** and its libraries: **NumPy, Pandas, Matplotlib, Sea
 - Power BI, Tableau, Interactive Dashboards  
 
 ### Machine Learning
-- Linear Regression, Logistic Regression  
-- (Currently exploring Computer Vision & NLP)
-
+- Linear Regression, Logistic Regression , Supervised and unsupervised leanring , 
+- (Currently exploring  Deep leanring  and Neural Networks aiming to specialize in Computer Vision & NLP)
 ### Others
 - Business Analysis, Problem Solving, Portfolio Projects  
 
