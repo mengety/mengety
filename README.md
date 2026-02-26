@@ -1,7 +1,7 @@
 
 # Hi, I’m Mengistu Tarko 👋
 
-Aspiring **Data Scientist & Machine Learning/AI Engineer** with a **Computer Science**  and **Mathemathics** background from a reputable university.  
+Aspiring **Data Scientist & AI / ML Engineer** with a **Computer Science**  and **Mathemathics** background from a reputable university.  
 I am a proficient **Data Analyst** and **Business Analyst**, experienced with **Excel, SQL**, and data visualization tools like **Power BI** and **Tableau**.  
 
 I also program in **Python** and its libraries: **NumPy, Pandas, Matplotlib, Seaborn**, with strong skills in **data wrangling**, **analysis**, and **data storytelling**.
