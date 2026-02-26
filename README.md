@@ -44,11 +44,32 @@ I also program in **Python** and its libraries: **NumPy, Pandas, Matplotlib, Sea
 ### Job Salary Analysis (Excel Dashboard)
 Interactive Excel dashboard to calculate **median salaries by country and schedule type**.  
 - Dynamic charts and data validation  
-- Fully customizable and free to use  
-
-![Dashboard](https://github.com/mengety/job-salary-analysis/dashboard.png)
+- Fully customizable and free to use
+    
+<img width="1877" height="750" alt="image" src="https://github.com/user-attachments/assets/4ca5a908-c93b-40f8-a91b-aa29e32486ff" />
 
 [View Repository](https://github.com/mengety/job-salary-analysis)
+
+
+<img width="857" height="549" alt="image" src="https://github.com/user-attachments/assets/c59e03e4-7d47-4e65-9bbc-c6c12d7f617a" />
+
+Health Risk Simulation (Python & NumPy)
+
+  - Simulates 10,000 patient health records, calculates risk based on BMI and blood pressure, and visualizes low vs high-risk populations.
+
+  - Generates synthetic patient data with age, BMI, blood pressure, and glucose levels
+
+  - Computes health scores and normalization for analysis
+
+  - Interactive bar chart visualization of patient risk categories
+  - 
+  <img width="843" height="555" alt="image" src="https://github.com/user-attachments/assets/26eb64d5-3b00-4795-b4b1-1de0ace5c455" />
+
+ [View Repository](https://github.com/mengety/Health-Simulation---Patient-Risk-Analysis)
+
+
+
+-
 
 ---
 
