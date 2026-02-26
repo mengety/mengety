@@ -51,9 +51,7 @@ Interactive Excel dashboard to calculate **median salaries by country and schedu
    [View Repository](https://github.com/mengety/job-salary-analysis)
 
 
-<img width="857" height="549" alt="image" src="https://github.com/user-attachments/assets/c59e03e4-7d47-4e65-9bbc-c6c12d7f617a" />
-
-Health Risk Simulation (Python & NumPy)
+### Health Risk Simulation *using Python & NumPy**
 
   - Simulates 10,000 patient health records, calculates risk based on BMI and blood pressure, and visualizes low vs high-risk populations.
 
