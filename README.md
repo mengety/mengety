@@ -46,9 +46,9 @@ Interactive Excel dashboard to calculate **median salaries by country and schedu
 - Dynamic charts and data validation  
 - Fully customizable and free to use
     
-<img width="1877" height="750" alt="image" src="https://github.com/user-attachments/assets/4ca5a908-c93b-40f8-a91b-aa29e32486ff" />
+   <img width="1877" height="750" alt="image" src="https://github.com/user-attachments/assets/4ca5a908-c93b-40f8-a91b-aa29e32486ff" />
 
-[View Repository](https://github.com/mengety/job-salary-analysis)
+   [View Repository](https://github.com/mengety/job-salary-analysis)
 
 
 <img width="857" height="549" alt="image" src="https://github.com/user-attachments/assets/c59e03e4-7d47-4e65-9bbc-c6c12d7f617a" />
@@ -63,13 +63,9 @@ Health Risk Simulation (Python & NumPy)
 
   - Interactive bar chart visualization of patient risk categories
   - 
-  <img width="843" height="555" alt="image" src="https://github.com/user-attachments/assets/26eb64d5-3b00-4795-b4b1-1de0ace5c455" />
+    <img width="843" height="555" alt="image" src="https://github.com/user-attachments/assets/26eb64d5-3b00-4795-b4b1-1de0ace5c455" />
 
- [View Repository](https://github.com/mengety/Health-Simulation---Patient-Risk-Analysis)
-
-
-
--
+    [View Repository](https://github.com/mengety/Health-Simulation---Patient-Risk-Analysis)
 
 ---
 
