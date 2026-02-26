@@ -60,7 +60,6 @@ Interactive Excel dashboard to calculate **median salaries by country and schedu
   - Computes health scores and normalization for analysis
 
   - Interactive bar chart visualization of patient risk categories
-  - 
     <img width="843" height="555" alt="image" src="https://github.com/user-attachments/assets/26eb64d5-3b00-4795-b4b1-1de0ace5c455" />
 
     [View Repository](https://github.com/mengety/Health-Simulation---Patient-Risk-Analysis)
